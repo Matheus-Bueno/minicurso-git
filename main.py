@@ -7,3 +7,9 @@ print(a+b+b)
 
 nome =  input("Qual o seu nome?")
 print("olá",nome)
+
+
+
+
+print("hello my friends i'am back")
+input("")
