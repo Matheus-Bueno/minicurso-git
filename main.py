@@ -7,4 +7,3 @@ print(a+b+b)
 
 nome =  input("Qual o seu nome?")
 print("olá",nome)
-
